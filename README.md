@@ -6,4 +6,4 @@
 
 [Bakery](https://atemuser.github.io/styles/Bakery/index.html)
 
-[Weather_Machine](https://atemuser.github.io/styles/Weather_machine/index.html).
+[Weather_Machine](https://atemuser.github.io/styles/Weather_machine/index.html)
