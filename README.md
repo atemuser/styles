@@ -7,3 +7,9 @@
 [Bakery](https://atemuser.github.io/styles/Bakery/index.html)
 
 [Weather_Machine](https://atemuser.github.io/styles/Weather_machine/index.html)
+
+https://atemuser.github.io/styles/Snow_Game/index.html
+
+https://atemuser.github.io/styles/Bakery/index.html
+
+https://atemuser.github.io/styles/Weather_machine/index.html
